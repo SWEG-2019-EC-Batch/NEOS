@@ -9,10 +9,8 @@ int main()
 
     cout << "Enter assignment mark: ";
     cin >> assignment;
-
     cout << "Enter midterm mark: ";
     cin >> midterm;
-
     cout << "Enter final mark: ";
     cin >> finalMark;
 
