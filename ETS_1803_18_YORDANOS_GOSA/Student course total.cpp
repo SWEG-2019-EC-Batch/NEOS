@@ -1,3 +1,15 @@
+/* Input
+Assignment mark (out of 100).
+Midterm mark (out of 100).
+Final exam mark (out of 100).
+ Processing
+Calculate the course total using the given percentagesDetermine the result using the conditional operator:
+total = (assignment * 0.20) + (midterm * 0.30) + (finalMark * 0.50)
+If total ≥ 50, the result is Pass.
+If total < 50, the result is Fail.
+ Output
+Course total (one decimal place).
+Student result (Pass or Fail).*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
