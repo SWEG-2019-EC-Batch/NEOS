@@ -1,18 +1,25 @@
-//declear variables forinput and outputs
-//Read the electricity units used in the month.
-//Set the fixed service charge to 10 birr.
-//Calculate the energy charge using the conditionaloperator:-
-//If units are 50 orless:
- // energyCharge = units * 1.50
+//input
+//electricity units used
+//outputs
+//energychargy
+//servicecharge
+//totalbill
 
- //Otherwise:
+//1.declear variables forinput and outputs
+//2.Read the electricity units used in the month.
+//3.Set the fixed service charge to 10 birr.
+//4.Calculate the energy charge using the conditionaloperator:-
+//5.If units are 50 orless:
+ //6. energyCharge = units * 1.50
+
+ //7.Otherwise:
   //energyCharge = (50 * 1.50) + (units-50) * 2.00)
 
 
-//Calculate the total bill:
-//totalBill = energyCharge +serviceCharge
+//8.Calculate the total bill:
+//9.totalBill = energyCharge +serviceCharge
 
-//Display the energy charge, service charge, and total bill with two decimal places.
+//10.Display the energy charge, service charge, and total bill with two decimal places.
 
 
 #include <iostream>

@@ -1,18 +1,30 @@
-//declear variables for inputs and outputs
-//Read  distance,travel time in hours and minutes,fueluse, price per liter.
-//Convert travel time into hours
-//totalTime = hours + {minutes}/60
-//calculate average speed,fuelused,fuelcost
-
-//averageSpeed = {distance} / {totalTime}}
-
-//fuelUsed = {distance} *{fuelUse}/100
-
-
-//fuelCost = {fuelUsed} * {pricePerLiter}
+//input
+//distance(km)
+//travel time in minutes
+//travel time in hours
+//fuel use(l/100km)
+//price per liter (birr)
+//outputs
+//average speed(km/h)
+//fuelused(l)
+//fuelcost(birr)
 
 
-//Display average speed, fuel used, and fuel cost with two decimal places.
+//1.declear variables for inputs and outputs
+//2.Read  distance,travel time in hours and minutes,fueluse, price per liter.
+//3.Convert travel time into hours
+//4.totalTime = hours + {minutes}/60
+//5.calculate average speed,fuelused,fuelcost
+
+//6.averageSpeed = {distance} / {totalTime}}
+
+//7.fuelUsed = {distance} *{fuelUse}/100
+
+
+//8.fuelCost = {fuelUsed} * {pricePerLiter}
+
+
+//9.Display average speed, fuel used, and fuel cost with two decimal places.
 
 
 #include <iostream>

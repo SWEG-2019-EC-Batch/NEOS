@@ -7,17 +7,17 @@
 // Pass or Fail
 //Process
 
- //Declare variables for input and outputs
-// Read the assignment,midterm,finalexam
- //Calculate the course totalusing:
+ //1.Declare variables for input and outputs
+// 2.Read the assignment,midterm,finalexam
+ //3.Calculate the course totalusing:
 
-//total = (assignment \times 0.20) + (midterm \times 0.30) + (finalExam \times 0.50)
-//Use the conditional operator to determine the result:-
-//If total greaterthan 50, the result is Pass.
-// Otherwise, the result is Fail.
+//4.total = (assignment \times 0.20) + (midterm \times 0.30) + (finalExam \times 0.50)
+//5.Use the conditional operator to determine the result:-
+//6.If total greaterthan 50, the result is Pass.
+// 7.Otherwise, the result is Fail.
 
-//Display the total mark.
-//Display Pass or Fail.
+//8.Display the total mark.
+//9.Display Pass or Fail.
 
 #include <iostream>
 #include <iomanip>
